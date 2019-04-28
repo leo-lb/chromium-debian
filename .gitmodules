@@ -1,4 +1,4 @@
 [submodule "debian/patches/chromium_power"]
 	path = debian/patches/chromium_power
 	url = https://github.com/leo-lb/chromium_power
-	branch = master
+	branch = ungoogled-chromium
